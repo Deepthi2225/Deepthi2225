@@ -1,4 +1,4 @@
-#  I'm Deepthi
+# Hi 👋, I'm Deepthi
 
 Driven by curiosity, I’m constantly learning and experimenting across tech domains.  
 Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at PES University, Bengaluru.  
