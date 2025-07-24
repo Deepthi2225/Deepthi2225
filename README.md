@@ -8,6 +8,10 @@ When I’m not coding, I’m usually immersed in academics or playing the keyboa
   <img src="https://komarev.com/ghpvc/?username=deepthi2225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2BC0E4&width=435&lines=Student+at+PES+University;AI+%26+ML+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</h3>
+
 ---
 
 ## 🌐 Connect with me
@@ -62,4 +66,18 @@ When I’m not coding, I’m usually immersed in academics or playing the keyboa
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthi2225&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthi2225&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthi2225&theme=dark&hide_border=true)  
+
+---
+
+## ✨ Fun Touch
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/imgs/wizard.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/imgs/star.gif" width="100"/>
+</p>
+
+---
+
+> _"Keep shipping, keep learning."_ 🚀  
+> Let's build something impactful, one commit at a time.  
