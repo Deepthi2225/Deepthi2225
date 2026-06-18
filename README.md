@@ -1,15 +1,15 @@
 # Hi 👋, I'm Deepthi
 
-Driven by curiosity, I’m constantly learning and experimenting across tech domains.  
+Driven by curiosity, I'm constantly exploring the boundaries of what AI can do — from reading papers to breaking models.  
 Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at PES University, Bengaluru.  
-When I’m not coding, I’m usually immersed in academics or playing the keyboard.
+When I'm not breaking models, I'm probably down a research rabbit hole — or playing the keyboard.
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=deepthi2225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2BC0E4&width=435&lines=Student+at+PES+University;AI+%26+ML+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2BC0E4&width=435&lines=Student+at+PES+University;Aspiring+AI%2FML+Engineer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </h3>
 
 ---
@@ -54,19 +54,13 @@ When I’m not coding, I’m usually immersed in academics or playing the keyboa
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=deepthi2225&theme=darkhub&no-frame=true&column=6)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthi2225&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthi2225&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthi2225&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthi2225&theme=dark&hide_border=true)
 
 ---
 
@@ -80,4 +74,4 @@ When I’m not coding, I’m usually immersed in academics or playing the keyboa
 ---
 
 > _"Keep shipping, keep learning."_ 🚀  
-> Let's build something impactful, one commit at a time.  
+> Let's build something impactful, one commit at a time.
