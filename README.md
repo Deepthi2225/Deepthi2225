@@ -1,104 +1,133 @@
-# Hi 👋, I'm Deepthi
-
-Driven by curiosity, I'm constantly exploring the boundaries of what AI can do — from reading papers to breaking models.  
-Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at PES University, Bengaluru.  
-When I'm not coding, I'm probably down a research rabbit hole — or playing the keyboard.
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=deepthi2225&label=Profile%20Views&color=A855F7&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=C46A7A&section=header&text=Deepthi%20M&fontSize=56&fontColor=F6D6D3&fontAlignY=40" alt="Deepthi M" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer+🤖;Thinking+in+embeddings...;Loss+curve+over+accuracy+📉;80%25+data%2C+20%25+model+⚙️;Always+learning+..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=C46A7A&center=true&vCenter=true&repeat=true&width=750&height=36&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Building+agents+that+think%2C+plan+%26+act;LLMs+%2B+tools+%2B+memory+%3D+agents+%F0%9F%A7%A0;Thinking+in+embeddings...;80%25+data%2C+20%25+model+%E2%9A%99%EF%B8%8F;Always+learning+..." alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepthi2225&label=Profile%20Views&color=C46A7A&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="mailto:reachdeepthi.m@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/itsdeepthi/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/deepthi2225">
-    <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/pes1ug23am092">
-    <img src="https://img.shields.io/badge/HackerRank-C084FC?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
-
----
-## 🛠️ Tech Stack
+## whoami
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" width="60%">
 
-### 💻 Languages
+```python
+class Deepthi:
+    """B.Tech CSE (AI & ML) @ PES University · building towards agentic AI."""
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    def __init__(self):
+        self.role      = "AI/ML Student & Aspiring AI Engineer"
+        self.focus     = ["Agentic workflows", "LLMs", "Machine Learning"]
+        self.exploring = ["Multi-agent systems", "Tool use & planning", "RAG"]
+        self.based     = "Bengaluru, India 📍"
+        self.hobby     = "Playing the keyboard 🎹"
 
-</td>
-
-<td valign="top" width="50%">
-
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+    def currently(self):
+        return "🌱 Growing through code, curiosity & a little AI magic."
+```
 
 </td>
-</tr>
+<td valign="middle" width="40%" align="center">
 
-<tr>
-<td valign="top" width="50%">
+<img src="./cozy-desk.svg" alt="Animated painting: a girl with heart headphones coding at a cosy desk with twinkling fairy lights and a neon sign that says Great Things Take Time" width="100%" />
 
-### ⚙️ Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🤖 AI / ML & Tools
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<sub><i>✨ great things take time (and big nets take compute)</i></sub>
 
 </td>
 </tr>
 </table>
 
 ---
+## 🛠️ Tech Arsenal
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend & Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</td>
+</tr>
+<tr>
+<td><b>📊 Data & Analysis</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/> <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square" alt="MATLAB"/>
+</td>
+</tr>
+<tr>
+<td><b>🧰 Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepthi2225&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=C084FC&border_color=7C3AED" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthi2225&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&border_color=7C3AED" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,react,nodejs,mysql,postgres,sklearn,pytorch,matlab,docker,git,linux,notion&theme=dark&perline=8" alt="Skill icons" />
 </p>
 
 ---
 
-> _"Keep shipping, keep learning."_ 🚀  
-> Let's build something impactful, one commit at a time.
+## 📊 GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepthi2225&hide_border=true&background=0D1117&ring=C46A7A&fire=F2B8B5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F2B8B5&sideLabels=F6D6D3&dates=E9B8C9" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Let's connect
+
+<p align="center">
+  <a href="mailto:reachdeepthi.m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-4A1428?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/itsdeepthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-8E3B5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/deepthi2225">
+    <img src="https://img.shields.io/badge/GitHub-C46A7A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/pes1ug23am092">
+    <img src="https://img.shields.io/badge/HackerRank-9C6F93?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/u/ikxLs8QsSK/">
+    <img src="https://img.shields.io/badge/LeetCode-B5707E?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Keep shipping, keep learning."</i> 🚀<br/>
+  Let's build something impactful, one commit at a time.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=C46A7A&section=footer" alt="" width="100%" />
+</p>
