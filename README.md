@@ -17,27 +17,27 @@
 
 <table>
 <tr>
-<td valign="middle" width="60%">
+<td valign="middle">
 
 ```python
 class Deepthi:
-    """B.Tech CSE (AI & ML) @ PES University · building towards agentic AI."""
+    """B.Tech CSE (AI & ML) @ PES University"""
 
     def __init__(self):
-        self.role      = "AI/ML Student & Aspiring AI Engineer"
-        self.focus     = ["Agentic workflows", "LLMs", "Machine Learning"]
-        self.exploring = ["Multi-agent systems", "Tool use & planning", "RAG"]
+        self.role      = "Aspiring AI/ML Engineer"
+        self.focus     = ["Agentic AI", "LLM APIs", "ML"]
+        self.exploring = ["Multi-agent", "Tool use", "RAG"]
         self.based     = "Bengaluru, India 📍"
         self.hobby     = "Playing the keyboard 🎹"
 
     def currently(self):
-        return "🌱 Growing through code, curiosity & a little AI magic."
+        return "🌱 Code, curiosity & a little AI magic."
 ```
 
 </td>
-<td valign="middle" width="40%" align="center">
+<td valign="middle" align="center">
 
-<img src="./cozy-desk.svg" alt="Animated painting: a girl with heart headphones coding at a cosy desk with twinkling fairy lights and a neon sign that says Great Things Take Time" width="100%" />
+<img src="./cozy-desk.svg" alt="Animated painting: a girl with heart headphones coding at a cosy desk with twinkling fairy lights and a neon sign that says Great Things Take Time" width="380" />
 
 <sub><i>✨ great things take time (and big nets take compute)</i></sub>
 
