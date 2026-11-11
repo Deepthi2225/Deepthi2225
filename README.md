@@ -37,7 +37,7 @@ class Deepthi:
 </td>
 <td valign="middle" align="center">
 
-<img src="./cozy-desk.svg" alt="Animated painting: a girl with heart headphones coding at a cosy desk with twinkling fairy lights and a neon sign that says Great Things Take Time" width="380" />
+<img src="./cozy-desk.svg" alt="Animated painting: a girl with heart headphones coding at a cosy desk with twinkling fairy lights and a neon sign that says Great Things Take Time" width="320" />
 
 <sub><i>✨ great things take time (and big nets take compute)</i></sub>
 
